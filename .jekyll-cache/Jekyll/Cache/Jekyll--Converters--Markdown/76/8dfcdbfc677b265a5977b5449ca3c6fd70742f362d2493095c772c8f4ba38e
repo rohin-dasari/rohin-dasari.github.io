@@ -1,0 +1,11 @@
+I"¿<p>CycleGAN is a type of General Adversarial Neural Network for image to image
+translation. This involes taking images that belong to one domain and
+translating them to another. Now what do I mean by domain? In this case, a
+domain is a general category to which an image can belong. An example of a
+domain could be a set of landscape photos that were taken in the summer time.
+Another example of another domain could be set of landscape photos that were
+taken in the winter time. CycleGAN would allow us to translate the images taken
+in the summer to look as if they were taken in the winter. This is pretty
+powerful and can have some pretty interesting applications, especially for
+generative art.</p>
+:ET
