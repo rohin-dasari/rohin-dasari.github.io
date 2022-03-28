@@ -1,0 +1,10 @@
+I"�<p>So, I was working on a a simple javascript game this weekend and I’ve
+implemented the core game mechanics, initial world generation, and user
+interface to display the score, instructions, etc. I’m feeling pretty good
+about it, but then I had the daunting task of building levels. This was seeming
+like it would be the most time consuming part of the whole ordeal and it was
+honestly starting to seem like a pain.</p>
+
+<p>I was faced with a few design choices. Either</p>
+
+:ET
